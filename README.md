@@ -1,2 +1,2 @@
-# template-repo
-Just a basic template for me.
+# hash-map
+A simple exercise to test out hash-map in Javascript.
